@@ -2,7 +2,7 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "valaxytech@gmail.com" 
+MAINTAINER "Aravind" 
 COPY ./webapp.war /var/lib/jenkins/workspace/deploy/webapp/target
 
 
